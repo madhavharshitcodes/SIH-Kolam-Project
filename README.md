@@ -1,7 +1,7 @@
-Kolam Design and Recreation Project
-This project is being developed for the Smart India Hackathon 2025. The goal is to create a web application that can identify the design principles of traditional Kolam art and recreate them programmatically.
+<h1>Kolam Design and Recreation Project</h1>
+<h2>This project is being developed for the Smart India Hackathon 2025. The goal is to create a web application that can identify the design principles of traditional Kolam art and recreate them programmatically.</h2>
 
-Tech Stack
+<h3>Tech Stack</h3>
 Backend: Python with Django
 
 Core Logic: Python with Pillow
@@ -10,7 +10,7 @@ Analysis: Python with OpenCV, NumPy, and opencv-contrib-python for advanced visi
 
 Frontend: HTML with Tailwind CSS
 
-Project Phases
+<h3>Project Phases</h3>
 Phase 1-3: Foundation & Interactivity (Complete)
 Core web app is set up, allowing users to generate simple, pre-defined Kolams.
 
