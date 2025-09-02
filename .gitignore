@@ -1,0 +1,18 @@
+Django-specific ignores
+*.log
+*.pot
+*.pyc
+pycache/
+local_settings.py
+db.sqlite3
+media/
+static/
+
+Python virtual environment
+venv/
+env/
+.env
+
+OS-specific files
+.DS_Store
+Thumbs.db
